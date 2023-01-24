@@ -12,6 +12,18 @@
     position: absolute;
     flex-direction: column;
 }
+.legal-carosal-image{
+    background-image: url(../images/Rectangle\ 6.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+
+    
+   
+}
+.legal-user-image{
+    width: 50px;
+}
 
 .legal-card-image {
     width: 50px;
