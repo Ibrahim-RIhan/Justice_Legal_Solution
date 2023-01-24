@@ -1,6 +1,6 @@
 .legal-banner {
     background-image: url(../images/Rectangle\ 4.png);
-    min-height: 70vh;
+    min-height: 80vh;
     background-size: cover;
     position: relative;
     color: white;
@@ -12,17 +12,8 @@
     position: absolute;
     flex-direction: column;
 }
-.legal-carosal-image{
-    background-image: url(../images/Rectangle\ 6.png);
-    background-size:cover;
-    background-repeat: no-repeat;
-    
-
-    
-   
-}
 .legal-user-image{
-    width: 50px;
+    width: 80px;
 }
 
 .legal-card-image {
